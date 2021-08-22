@@ -59,8 +59,9 @@ a:hover {
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 3.5rem;
   margin-bottom: 20px;
+  text-shadow: 0 0 2px #121212;
 }
 
 h2 {
@@ -68,7 +69,7 @@ h2 {
 }
 
 h3 {
-  font-size: 1.8rem;
+  font-size: 1.7rem;
   margin: 10px 0;
 }
 
@@ -150,6 +151,40 @@ hr {
   font-weight: 300;
 }
 
+.featuredImage {
+  position: relative;
+}
+
+.featuredImage > div {
+  position: absolute;
+  top: 0;
+  right: 35px;
+  background-color: #e3e3ef;
+  border-radius: 15px;
+  padding: 2px 10px;
+  transform: translateY(-50%);
+  z-index: 9;
+}
+
+.featuredImage a {
+  overflow: hidden;
+  display: inline-block;
+  border-radius: 20px;
+  box-shadow: 0 10px 20px 0px #878787;
+}
+
+.featuredImage img {
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 20px;
+  transition: 1s linear;
+}
+
+.featuredImage img:hover {
+  transform: scale(130%);
+}
+
 /* NAV */
 nav {
   background-color: rgba(55, 40, 123, 0.9);
@@ -196,13 +231,13 @@ nav div ul li:first-child {
 header {
   width: 100%;
   color: #fff;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 header.main {
   background: url("../img/header.png");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
   height: 115vh;
 }
 
@@ -227,6 +262,16 @@ header.main article div img {
 header.main article div p {
   font-size: 1.3rem;
   font-weight: 300;
+}
+
+header.second {
+  background-image: url("../img/header-pola.png");
+  height: 60vh;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
 }
 
 /* UVOD */
@@ -376,36 +421,6 @@ header.main article div p {
 .radionice article > div {
   flex: 0 0 33%;
   padding: 0 15px;
-  position: relative;
-}
-
-.radionice article > div .datum {
-  position: absolute;
-  top: 0;
-  right: 35px;
-  background-color: #e3e3ef;
-  border-radius: 15px;
-  padding: 2px 10px;
-  transform: translateY(-50%);
-  z-index: 9;
-}
-
-.radionice article > div a {
-  overflow: hidden;
-  display: inline-block;
-  border-radius: 20px;
-  box-shadow: 0 10px 20px 0px #878787;
-}
-
-.radionice article > div img {
-  height: 100%;
-  object-fit: cover;
-  display: block;
-  transition: 1s linear;
-}
-
-.radionice article > div img:hover {
-  transform: scale(130%);
 }
 
 /* FOOTER */
@@ -449,5 +464,71 @@ footer article:last-child {
   border-top: 1px solid #878787;
   text-align: center;
   padding: 40px 0 100px;
+}
+
+/* BLOG */
+.blog article {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-top: 50px;
+}
+
+.blog article > div {
+  flex: 0 0 50%;
+  padding: 0 15px;
+}
+
+.blog article h3 {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 5px 0px;
+  border-radius: 25px;
+  width: 90%;
+  text-align: center;
+  color: #fff;
+  background-color: rgba(18, 18, 18, 0.7);
+}
+
+/* SINGLE BLOG */
+.singleBlog {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+.singleBlog article {
+  flex: 0 0 68%;
+}
+
+.singleBlog article blockquote {
+  margin: 1em 0;
+}
+
+.singleBlog article h3 {
+  margin-top: 30px;
+}
+
+.singleBlog article p {
+  text-align: justify;
+  margin-bottom: 1em;
+}
+
+.singleBlog aside {
+  flex: 0 0 30%;
+}
+
+.singleBlog .featuredImage {
+  margin-bottom: 20px;
+}
+
+.singleBlog .featuredImage img:hover {
+  transform: unset;
 }
 /*# sourceMappingURL=style.css.map */

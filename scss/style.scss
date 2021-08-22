@@ -39,7 +39,6 @@ header {
   color: $white;
   &.main {
     background: url("../img/header.png");
-    @include bgBasic;
     height: 115vh;
     article {
       @include flex($y: center);
@@ -57,6 +56,12 @@ header {
       }
     }
   }
+  &.second {
+    background-image: url("../img/header-pola.png");
+    height: 60vh;
+    @include flex($y: center);
+  }
+  @include bgBasic;
 }
 
 /* UVOD */
@@ -167,33 +172,6 @@ header {
     & > div {
       flex: 0 0 33%;
       padding: 0 15px;
-
-      position: relative;
-      .datum {
-        position: absolute;
-        top: 0;
-        right: 35px;
-        background-color: $lightGray;
-        border-radius: 15px;
-        padding: 2px 10px;
-        transform: translateY(-50%);
-        z-index: 9;
-      }
-      a {
-        overflow: hidden;
-        display: inline-block;
-        border-radius: 20px;
-        box-shadow: $boxShadow;
-      }
-      img {
-        height: 100%;
-        object-fit: cover;
-        display: block;
-        transition: 1s linear;
-        &:hover {
-          transform: scale(130%);
-        }
-      }
     }
   }
 }
@@ -228,6 +206,57 @@ footer {
       border-top: 1px solid $gray;
       text-align: center;
       padding: 40px 0 100px;
+    }
+  }
+}
+
+/* BLOG */
+.blog {
+  article {
+    @include flex(flex-start);
+    margin-top: 50px;
+    & > div {
+      flex: 0 0 50%;
+      padding: 0 15px;
+    }
+    h3 {
+      position: absolute;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      padding: 5px 0px;
+      border-radius: 25px;
+      width: 90%;
+      text-align: center;
+      color: $white;
+      background-color: rgba($black, 0.7);
+    }
+  }
+}
+
+/* SINGLE BLOG */
+.singleBlog {
+  @include flex;
+  article {
+    flex: 0 0 68%;
+    blockquote {
+      margin: 1em 0;
+    }
+    h3 {
+      margin-top: 30px;
+    }
+    p {
+      text-align: justify;
+      margin-bottom: 1em;
+    }
+  }
+  aside {
+    flex: 0 0 30%;
+  }
+  .featuredImage {
+    margin-bottom: 20px;
+    img:hover {
+      transform: unset;
     }
   }
 }

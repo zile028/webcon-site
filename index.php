@@ -3,9 +3,9 @@
 <header class="main">
     <article class="container">
         <div>
-            <h1 class="animate__animated  animate__fadeInDown">Webcon radionice –<br>
+            <h1>Webcon radionice –<br>
                 kodirajte sa nama</h1>
-            <p class="lead animate__animated animate__fadeInUp">Učite kroz konkretne, praktične primere kao i prave
+            <p class="lead">Učite kroz konkretne, praktične primere kao i prave
                 sajtove za klijente.<br>
                 Pratite uživo, a posle možete da se podsetite kroz snimke koje dobijate posle radionice.</p>
             <a class="btn btn-orange" href="radionice.php">Radionice<span>&RightArrow;</span></a>
@@ -66,7 +66,7 @@
 </section>
 <hr class="container">
 <!-- o nama -->
-<section class="onama container py">
+<section class="onama-main container py">
     <article>
         <h3>NAJVAŽNIJA JE PRAKSA I ISKUSTVO</h3>
         <p>
@@ -131,7 +131,7 @@
 </section>
 
 <!-- radionice -->
-<section class="radionice container py">
+<section class="radionice-main container py">
     <h2>Kalendar radionica</h2>
     <div class="underline">
         <div class="item1"></div>

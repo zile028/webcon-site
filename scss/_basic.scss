@@ -42,12 +42,15 @@ a {
 
 .py {
   padding: $py;
+  @media (max-width: 768px) {
+    padding: 30px 0;
+  }
 }
 .container {
   width: $containerWidth;
   max-width: 1140px;
   margin: 0 auto;
-  @media (max-width: 769px) {
-    width: 90%;
+  @media (max-width: 1140px) {
+    width: 95%;
   }
 }

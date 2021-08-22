@@ -6,96 +6,97 @@
     </article>
 </header>
 
-<section class="singleBlog container py">
+<section class="single single-blog container py">
     <article>
         <div class="featuredImage">
             <div class="datum">admin | 25. децембра 2020.</div>
             <img src="img/blog2.jpg" alt="">
         </div>
-        <p>Ovo je veoma često pitanje koje muči one koje žele da se upuste u ovu oblast.</p>
-        <blockquote><cite>Odgovor je mogu🙂</cite></blockquote>
+        <p>Koliko ste preduzetni, toliko ste uspešni.</p>
+        <blockquote><cite>Johan Sebastian Bah – kompozitor</cite></blockquote>
 
-        <p>Posle ohrabrujuće konstatacije ima <strong>“ALI”</strong> potreban je temeljan rad i ne postoji neko
-            univerzalno i zlatno pravilo. Ono što smi mi naučili u školi <a rel="noreferrer noopener"
-                href="https://www.itfusion.rs/" target="_blank">IT Fusion</a> držeći časove u učionici na tradiionalan
-            način i razgovarajući sa polaznicima je to da je najlakše sa mentorom.</p>
+        <p>Glavni problem je što ljudi uglavnom sve što žele je da to bude brzo, ali to je uglavnom nemoguće. Ono što
+            može je da se odabere neka oblast u kojoj je ulazak u posao lakši, tačnije da krenemo da učimo nešto što se
+            lakše uči samo po sebi.</p>
 
-        <p>Ono što je važno je da treba prvo pronaći način koji Vam najviše odgovara. Najbolji način je simbioza kroz
-            čitanje knjiga, online radioničarski rad i komunikacija sa iskunim developerima kao i tradicionalni kurs,
-            jer tako dobijate širinu pristupa. <strong>Glavno pitanje koje se postavlja je “Koja je mera znanja za
-                zaposlenje”?</strong> Pa sve više i više se traži i lestvica je dosta visoko postavljena. Velike firme
-            pored osnovnih programskih jezika traže i frameworke koji olakšavaju rad u pravljenu veb aplikacija, tako da
-            ako želite posao u nekoj od ozbiljnih IT kompanija morate imati veoma ozbiljno znanje. Ali to svi i ne žele,
-            postoje i manje firme, kao i marketinške agencije, kao i freelance platforme gde možete sa određenim
-            stepenom znanja da se pronađete.</p>
 
-        <img src="img/blog1-detalj1.jpg" alt="">
-        <p>Detalj sa online radionice preko Zoom-a – IT Fusion škola Novi Sad</p>
 
-        <h3>Gde sam tu ja?</h3>
-
-        <p>Odgovor na ovo pitanje nije neophodno odmah i znati, potrebno je probati, odvažiti se i “potražiti se”.</p>
-
-        <p><strong>Iz pera autora ovog teksta iskustvo je bilo sledeće:</strong> “Krenuo sam putem grafičkog dizajna,
-            ali vrlo brzo sam osetio određen nivo dosade u radu sa adobe alatima photoshop i illustrator, krenuo sam u
-            veb dizajn i dreamviewer (takođe Adobe alat) i shvatio da mi se sviđa taj obrnuti pristup da slike dobijam
-            iz drugog plana, kucanjem koda…I tako sam se našao u web dizajnersko programerskim vodama. Ali je put bio
-            dug, nebrojeni besplatni tutorijali u startu, zatim sam sve više počeo da plaćam da bih skratio put…..U
-            jednom trenutku sam pohađao jedan kurs u učionici, kao početnik, sa znanjem html-a i css-a i to nije donelo
-            željeni rezultat. Kurs je bio previše intenzivan i nisam uspeo da ispratim kvalitetno gradivo….Ključna
-            stvar, nisam stao, već nastavio da učim dok nisam naučio. <strong>U svemu najvažnija stvar je dati sebi
-                dovoljno vremena, jer nije svima potrebno isto vreme za određeni put”.</strong></p>
-
-        <p>Naša preporuka je uvek ista, kombinacija pristupa da ponovimo: radioničarski pristup gde brzo dobijate dosta
-            znanja, koje je posle potrebno brusiti. S tim u vezi smo napravili 3 tipa radionica: jednodnevne, dvodnevne
-            i jednomesečne gde imate razne opcije da se pronađete. Pored radionica predlažemo produbljenje znanja
-            čitajući knjige, pisac ovih redova, od svake oblasti koju je učio do sada je pročitao između 3 i 5 knjiga,
-            jer dubina nije na odmet. Kao treći ptistup je i pohađanje kurseva u učionici gde i za to imamo rešenje za
-            Vas u školi <a href="https://www.itfusion.rs" target="_blank" rel="noreferrer noopener">IT Fusion</a> u
-            Novom Sadu.</p>
-
-        <p>Evo još jedno razmišljanje iz pera autora ovog teksta: “Mana mnogih kurseva je tempo koji je teško pratiti i
-            iz tog razloga sam ja krenuo da se bavim edukacijom početnika, jer sam i sam osetio gorčinu težine koju
-            svaki početnik oseti. I iz tog razloga radim 2 kursa u IT Fusion školi jedan je <a rel="noreferrer noopener"
-                href="https://www.itfusion.rs/kurs-front-end-web-development/" target="_blank">Front end</a>, drugi je
-            <a rel="noreferrer noopener" href="https://www.itfusion.rs/full-stack-development-kurs/"
-                target="_blank">Full stack kurs</a>. Pored tradicionalnih načina učenja ja volim i online pristup jer
-            tako možemo da radimo zajedno bez obzira na lokaciju i fenomenalan je osećaj raditi i pomagati ljudima u
-            drugim gradovima i državama i stoga smo pokrenuli ovaj vid edukacije, pogledajte <a
-                href="https://webcon.rs/dogadjaji/radionice/">radionice </a>koje smo kreirali za vas. Posle 3 grupe
-            front end kursa sam poželeo da zaokružimo priču i sa back end znanjem kroz PHP programski jezik i ubacili
-            smo i WordPress development jer sama tehnologija zauzima preko 33% svih sajtova na internetu. Ovaj program
-            je moja lična satisfakcija i svakodnevno uživam u komunikaciji sa polaznicima”.
+        <p>Preporuka je pokušati u oblastima u kojima se posao preklapa sa nekim od naših urođenih talenata. Na primer
+            ako smo voleli u životu da čitamo i imamo dar lepog govora i pisanja, tu je opcija
+            <strong>kopirajt</strong>, kao veoma bitna stavka u svakoj kompaniji, bez obzira šta i kako radimo i
+            prodajemo, proizvodimo moramo o tome ispričati priču, tako da je to na primer jedna od stvari u kojoj sa
+            nekoliko veb alata možemo da radimo i u kompanijama raznim, ali i kao frilenseri, a isto tako možemo ako
+            imamo neku porodičnu kompaniju sami raditi svoje tekstove, jer niko bolje od onoga koji posnaje u dušu
+            uslugu ili proizvod ne može bolje da ga opiše.
         </p>
-        <img src="img/full-stack-30-1024x641-1.png" alt="">
-        <p>Detalj sa online radionice preko Zoom-a – IT Fusion škola Novi Sad</p>
 
-        <h3>Never stop learning</h3>
 
-        <p>Nema potrebe posebne formule sem ove, u poslu programera je jedina istina da <strong>“Učenje nikada ne
-                prastaje”</strong>. Za one koji vole to što rade to je jedna predivna stvar imati izazove, pratiti
-            dokumentaciju tehnologija u kojima radimo, uključenje i u lokalne inicijative i interakcija sa ostalim
-            članovima zajednice kao i u te iste zajednice u gobalnim okvirima. Padaju sve fizičke granice i otvara se
-            prostor koji je neverovatan.</p>
 
-        <p>Oni koji su manje skloni učenju oni u stvari nikada neće i naučiti programiranje ili će ostati na nekom
-            početnom nivou. Važno je sve ovo shvatiti kao etape u kojima se unapređujemo. Treba sebi dizati lestvicu i
-            tako ćemo doći do željenog cilja. Uvek ostaje opcija za one manje sklone programiranju, da mogu da rade HTML
-            i CSS, kao i WordPress na nivou administriranja veb sajtova. Prvi set naših radionica i jeste taj početni
-            nivo da prvo pomognemo ljudima da nauče osnove i da savladaju tehnologije koje su bazične u izgradnji veb
-            stranica, zatim idemo sve dalje i dalje :).</p>
+        <p>Web dizajn je na primer grana koja je veoma razvijena i ima dva pravca razvoja, izrada izgleda samih veb
+            sajtova i aplikacija i programiranje istih. Izrada mokapa u alatima Photoshop, Figma, Sketch, Adobe XD, IN
+            vision itd je opcija koju mogu da rade svi oni koji imaju smisla za vizuelno, dok oni koji imaju smisla za
+            programiranje i nije im to dosadno mogu da uče da programiraju i tu je takođe moguće lakšim i težim putem.
+            Lakši put je UI dizajn gde je dovoljno znati HTML i CSS i prebacivati gotov dizajn u kod, kao i teži put uz
+            korišćenje programskih jezika i pravljenje dodavanje dinamičih beb-sajtova i aplikacija.</p>
 
-        <h3>Zaključak</h3>
 
-        <p>Kreativne industrije su u velikoj ekspanziji, bilo da želimo da radimo veb dizajn, da pravimo igrice, da
-            pišemo softvere….u svemu ovome nam je potrebno programiranje i da bi ga naučili moramo dati ozbiljan trud,
-            sintaksu programskih jezika nije teško naučiti i to je nešto za početak, ali onda treba dalje vežbati logiku
-            i naša najbolja preporuka je da treba krenuti, probati i pronaći se u nekom od programskih jezika i
-            tehnologija….Postoje nivoi znanja koji mogu da podmire sve “kapacitete”, nije potrebno da budete genijalac,
-            da završite neki tehnički fakultet (mnogo pomaže i kroz tu vrstu školovanja stičemo inženjerksi pristup i
-            širinu u svakom smislu).</p>
 
-        <p>Zato predlažemo da pokušate 😉</p>
+        <h3>UI dizajn</h3>
+
+
+
+        <p>Sigurno najbrži put, naučite HTML i CSS i gotov dizajn kodirate. Međutim samo te dve tehnologije su teži put
+            do zaposlenja u kompanijama, ti poslovi su najviše vezani za freelance platforme, jer jednostavno postoje
+            ljudi koji ne žele ni WordPress, a ni dinamičke sajtove, već nekoliko statičkih stranica da predstave svoj
+            posao i proizvod. Ako ste majstor HTML-a i CSS-a ali baš majstor možete da nađete poslove. Ako želite da
+            naučite oblast možete to sa nama, pogledajte na ovom linku <a rel="noreferrer noopener"
+                href="https://webcon.rs/event/html-i-css-webcon-kamp/" target="_blank" data-type="URL"
+                data-id="https://webcon.rs/event/html-i-css-webcon-kamp/">kamp</a></p>
+
+        <img src="img/kako-najbrze-do-posla-u-it-ju-1024x683.jpg" alt="">
+
+        <h3>WordPress</h3>
+
+
+
+        <p>Ako uz HTML i CSS naučite i WordPress onda se mogućnosti otvaraju, jer sama platforma zauzima preko 33% svih
+            sajtova na na interntu i u skladu sa nivoom znanja zavise i mogučnosti. Ono što je bitno sa osnovnim znanjem
+            html-a i css-a i solidnim znanjem WP-a možete da radite i za marketinške kompanije, freelance poslove, a ako
+            naučite i izradu tema u WordPress-u onda možete da radite i u pravim i ozbiljnim IT kompanijama. Spoj ovih
+            tehnologija je svakako najbrži način to posla koji je programiranje, a opet nije nešto za šta vam je
+            potrebno jako puno vremena. WordPress ima ogromnu zajednicu i rešavanje problema je lako, dokumentacija je
+            odlična, a i kurseva svih profila ne manjka.</p>
+
+
+
+        <p>Sa druge strane možete da izrađujete plaginove i teme i da ne zavisite od nikoga, pod uslovom da umete da
+            prodate to što napravite. Nekada je bilo lakše na sajtovima kao npr <a rel="noreferrer noopener"
+                href="https://themeforest.net/" data-type="URL" data-id="https://themeforest.net/" target="_blank">Theme
+                Forest</a> i drugim sajtovima, ali sada sve velike platforme imaju neku svoju politiku koja nije laka za
+            one koji počinju. Ako Vas interesuje ova oblast imamo u ponudi odličan dvodnevni kamp koji se bavi ovom
+            tematikom, pogledajte <a href="https://webcon.rs/event/web-dizajn-webcon-kamp/" data-type="URL"
+                data-id="https://webcon.rs/event/web-dizajn-webcon-kamp/">ovde</a>.</p>
+
+
+        <img src="img/kako-najbrze-do-posla-u-it-ju-wordpress-1024x683.jpg" alt="">
+
+        <h3>Digitalni marketing</h3>
+
+
+
+        <p>Novija oblast sa mnogo mogućnosti i najlakšim ulaskom u IT industriju su poslovi u sferi digitalnog
+            marketinga, to su PPC (Pay Per Click) poslovi. Google Ads, Facebook i Instagram reklamiranje su poslovi koje
+            možete dosta lako da naučite operaterski, i ova sfera ima dubinu, ako želite da istražujete ko je Vaša
+            idealna publika i da optimizujete troškove samog marketinga tu se stvari komplikuju, ali dosta kompanije
+            traži ljude koji će uspešno setovati kampanje, a seniori se bave naprednijim stvarima. Kao sad već organski
+            deo uz digitalni marketing dolazi i SEO, koji je nešto teže naučiti, sam tehnički SEO nije težak, ali na
+            duge staze se radi link building i taj deo je teži. Pomenuli smo na početku teksta kopirajt, to je takođe
+            važan deo samog digitanog marketinga, jer sve je besmisleno bez dobrog kontenta i dobro ispričane priče.
+            Mana digitalnog marketing je što nije egzaktan i morate da kombinujete razne alate i tehnike, da istražujete
+            da bi došli do rezulatata, ali opet nekako brže se uči nego na primer programiranje u Javi. Znanje
+            merketinga i alata kao WordPress, možete da radite u raznim marketinškim agenicijama i to su neke smernice,
+            ako želite da uđete u posao, a da pre toga ne morate da učite 3 godine.</p>
+
     </article>
     <aside>
         <?php include "partials/sidebar.php" ?>

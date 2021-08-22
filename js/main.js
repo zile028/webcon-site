@@ -1,3 +1,15 @@
+let nav = document.querySelector("nav");
+checkScroll();
+window.addEventListener("scroll", checkScroll);
+function checkScroll() {
+  let position = window.scrollY;
+  if (position > 100) {
+    nav.classList.add("shadow");
+  } else {
+    nav.className = "";
+  }
+}
+
 $(".owl-carousel").owlCarousel({
   loop: true,
   margin: 0,

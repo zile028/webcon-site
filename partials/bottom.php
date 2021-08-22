@@ -29,7 +29,7 @@
                 <li><a href="index.php">Naslovna</a></li>
                 <li><a href="onama.php">O nama</a> </li>
                 <li><a href="radionice.php">Radionice</a></li>
-                <li><a href="primerstrane.php">Пример стране</a></li>
+                <li><a href="primer-strane.php">Пример стране</a></li>
             </ul>
         </div>
     </article>

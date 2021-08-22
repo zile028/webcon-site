@@ -6,7 +6,7 @@
     </article>
 </header>
 
-<section class="singleBlog container py">
+<section class="single single-blog container py">
     <article>
         <div class="featuredImage">
             <div class="datum">admin | 25. децембра 2020.</div>

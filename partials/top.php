@@ -26,6 +26,7 @@
     <nav>
         <div class="container">
             <a href="index.php">webcon</a>
+            <button id="navBtn"><i class="fas fa-bars"></i></button>
             <ul>
                 <li><a href="index.php">naslovna</a></li>
                 <li><a href="blog.php">blog</a></li>

@@ -17,8 +17,14 @@ h3 {
   margin: 10px 0;
 }
 h4 {
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   margin: 0px 0 10px;
+}
+h5 {
+  font-size: 1.4rem;
+}
+h6 {
+  font-size: 1rem;
 }
 img {
   width: 100%;
@@ -76,6 +82,9 @@ hr {
   }
   &-violet {
     background-color: $primary;
+    &:hover {
+      background-color: $accents;
+    }
   }
   &:hover {
     opacity: 0.8;

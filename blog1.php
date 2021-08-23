@@ -13,7 +13,7 @@
             <img src="img/blog1.jpg" alt="">
         </div>
         <p>Ovo je veoma često pitanje koje muči one koje žele da se upuste u ovu oblast.</p>
-        <blockquote><cite>Odgovor je mogu🙂</cite></blockquote>
+        <p><cite>Odgovor je mogu🙂</cite></p>
 
         <p>Posle ohrabrujuće konstatacije ima <strong>“ALI”</strong> potreban je temeljan rad i ne postoji neko
             univerzalno i zlatno pravilo. Ono što smi mi naučili u školi <a rel="noreferrer noopener"

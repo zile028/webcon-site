@@ -1,4 +1,20 @@
 let nav = document.querySelector("nav");
+let navBtn = document.querySelector("#navBtn");
+let navList = nav.querySelector("ul");
+
+/* SHOW MENU LIST */
+window.addEventListener("resize", checkWidth);
+navBtn.addEventListener("click", showMenu);
+
+function showMenu() {
+  navList.classList.toggle("active");
+}
+
+function checkWidth() {
+  navList.classList.remove("active");
+}
+
+/* NAV BAR ADD SHADOW */
 checkScroll();
 window.addEventListener("scroll", checkScroll);
 function checkScroll() {
@@ -10,6 +26,7 @@ function checkScroll() {
   }
 }
 
+/* SLIDER UTISCI */
 $(".owl-carousel").owlCarousel({
   loop: true,
   margin: 0,

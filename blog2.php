@@ -13,13 +13,11 @@
             <img src="img/blog2.jpg" alt="">
         </div>
         <p>Koliko ste preduzetni, toliko ste uspešni.</p>
-        <blockquote><cite>Johan Sebastian Bah – kompozitor</cite></blockquote>
+        <p><cite>Johan Sebastian Bah – kompozitor</cite></p>
 
         <p>Glavni problem je što ljudi uglavnom sve što žele je da to bude brzo, ali to je uglavnom nemoguće. Ono što
             može je da se odabere neka oblast u kojoj je ulazak u posao lakši, tačnije da krenemo da učimo nešto što se
             lakše uči samo po sebi.</p>
-
-
 
         <p>Preporuka je pokušati u oblastima u kojima se posao preklapa sa nekim od naših urođenih talenata. Na primer
             ako smo voleli u životu da čitamo i imamo dar lepog govora i pisanja, tu je opcija
@@ -30,8 +28,6 @@
             uslugu ili proizvod ne može bolje da ga opiše.
         </p>
 
-
-
         <p>Web dizajn je na primer grana koja je veoma razvijena i ima dva pravca razvoja, izrada izgleda samih veb
             sajtova i aplikacija i programiranje istih. Izrada mokapa u alatima Photoshop, Figma, Sketch, Adobe XD, IN
             vision itd je opcija koju mogu da rade svi oni koji imaju smisla za vizuelno, dok oni koji imaju smisla za
@@ -39,11 +35,7 @@
             Lakši put je UI dizajn gde je dovoljno znati HTML i CSS i prebacivati gotov dizajn u kod, kao i teži put uz
             korišćenje programskih jezika i pravljenje dodavanje dinamičih beb-sajtova i aplikacija.</p>
 
-
-
         <h3>UI dizajn</h3>
-
-
 
         <p>Sigurno najbrži put, naučite HTML i CSS i gotov dizajn kodirate. Međutim samo te dve tehnologije su teži put
             do zaposlenja u kompanijama, ti poslovi su najviše vezani za freelance platforme, jer jednostavno postoje
@@ -57,8 +49,6 @@
 
         <h3>WordPress</h3>
 
-
-
         <p>Ako uz HTML i CSS naučite i WordPress onda se mogućnosti otvaraju, jer sama platforma zauzima preko 33% svih
             sajtova na na interntu i u skladu sa nivoom znanja zavise i mogučnosti. Ono što je bitno sa osnovnim znanjem
             html-a i css-a i solidnim znanjem WP-a možete da radite i za marketinške kompanije, freelance poslove, a ako
@@ -66,8 +56,6 @@
             tehnologija je svakako najbrži način to posla koji je programiranje, a opet nije nešto za šta vam je
             potrebno jako puno vremena. WordPress ima ogromnu zajednicu i rešavanje problema je lako, dokumentacija je
             odlična, a i kurseva svih profila ne manjka.</p>
-
-
 
         <p>Sa druge strane možete da izrađujete plaginove i teme i da ne zavisite od nikoga, pod uslovom da umete da
             prodate to što napravite. Nekada je bilo lakše na sajtovima kao npr <a rel="noreferrer noopener"
@@ -77,12 +65,9 @@
             tematikom, pogledajte <a href="https://webcon.rs/event/web-dizajn-webcon-kamp/" data-type="URL"
                 data-id="https://webcon.rs/event/web-dizajn-webcon-kamp/">ovde</a>.</p>
 
-
         <img src="img/kako-najbrze-do-posla-u-it-ju-wordpress-1024x683.jpg" alt="">
 
         <h3>Digitalni marketing</h3>
-
-
 
         <p>Novija oblast sa mnogo mogućnosti i najlakšim ulaskom u IT industriju su poslovi u sferi digitalnog
             marketinga, to su PPC (Pay Per Click) poslovi. Google Ads, Facebook i Instagram reklamiranje su poslovi koje
